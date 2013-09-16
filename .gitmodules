@@ -1,3 +1,9 @@
 [submodule "contiki"]
 	path = contiki
 	url = https://github.com/contiki-os/contiki.git
+[submodule "Adafruit_SSD1306"]
+	path = Adafruit_SSD1306
+	url = http://github.com/adafruit/Adafruit_SSD1306.git
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = http://github.com/adafruit/Adafruit-GFX-Library
