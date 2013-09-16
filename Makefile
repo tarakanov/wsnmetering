@@ -5,4 +5,5 @@ all: $(CONTIKI_PROJECT)
 
 CONTIKI = contiki
 TARGETDIRS += targets
+APPDIRS += ${addprefix ../apps/, $(APPS)}
 include $(CONTIKI)/Makefile.include
